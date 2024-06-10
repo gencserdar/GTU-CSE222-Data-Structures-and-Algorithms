@@ -1,0 +1,2 @@
+class RetailCustomer extends Customer {
+}
